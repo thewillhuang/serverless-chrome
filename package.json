@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/adieuadieu/serverless-chrome",
   "dependencies": {
-    "aws-sdk": "^2.49.0",
+    "aws-sdk": "^2.814.0",
     "chrome-remote-interface": "^0.22.0",
     "got": "^6.7.1",
     "ps-node": "^0.1.6",
