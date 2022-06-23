@@ -37,7 +37,7 @@
   "dependencies": {
     "aws-sdk": "^2.49.0",
     "chrome-remote-interface": "^0.22.0",
-    "got": "^6.7.1",
+    "got": "^11.8.5",
     "ps-node": "^0.1.6",
     "uuid": "^3.0.1"
   },
